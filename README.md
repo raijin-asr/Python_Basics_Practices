@@ -8,3 +8,4 @@ Python Basics practice of 55+ coding exercises
     Day 4: Chapter 2 Flow Control- some exercises (Pass or Fail, Odd Even, Print Days)
     Day 5: Chapter 2 Flow Control- additional exercises (Can Vote or not, Check Fizzbuzz, Bonus in Salary)
     Day 6: Chapter 2 Flow Control- additional exercises (Small among three numbers, User likes Car or not, Multiply input with random number)
+    Day 7: Chapter 2 Flow Control- additional exercises (Sum of first N number, All factors of N number, prime number)
