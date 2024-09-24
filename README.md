@@ -11,3 +11,4 @@ Python Basics practice of 55+ coding exercises
     Day 7: Chapter 2 Flow Control- additional exercises (Sum of first N number, All factors of N number, prime number)
     Day 8: Chapter 2 Flow Control- additional exercises (Count digits, Not Divisible by 3, print number until 0)
     Day 8.1: Chapter 2 Flow Control- additional exercises(Print postive number, Fibonacci numbers, Fibonacci number less than n)
+    Day 9: Chapter 3 Functions - some exercises (Pass or Fail, Two arguments equal, Print function twice, Print Full Name)
