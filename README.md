@@ -13,3 +13,4 @@ Python Basics practice of 55+ coding exercises
     Day 8.1: Chapter 2 Flow Control- additional exercises(Print postive number, Fibonacci numbers, Fibonacci number less than n)
     Day 9: Chapter 3 Functions - some exercises (Pass or Fail, Two arguments equal, Print function twice, Print Full Name)
     Day 10: Chapter 3 Functions - additional exercises (CHeck Prime Number, power of integer, User Info, Sum of Natural number, area of circle)
+    Day 11: Chapter 4 Data Collections - exercises (Append at end of list, Product of List, Check if string equal, print individual items of list)
