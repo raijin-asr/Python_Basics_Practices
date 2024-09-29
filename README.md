@@ -16,6 +16,8 @@ Python Basics practice of 55+ coding exercises
     Day 11: Chapter 4 Data Collections - exercises (Append at end of list, Product of List, Check if string equal, print individual items of list)
     Day 12: Chapter 4 Data Collections - exercises (Print Odd Items, Reverse List, New List using slicing, Occurrence of Character)
     Day 13: Chapter 4 Data Collections - exercises (Replace substring, string concat, print date format, check two string equal, merge dictionaries)
+    Day 14: Chapter 4 Data Collections - exercises (Create Dictionary, Loop Dictionaries, Values exists in dict, union of two set, convert string to list)
+
     
 
 ![practice ss1](https://github.com/user-attachments/assets/2e421dd5-2cbc-48ad-bbff-3613cc3ab0d5)    
