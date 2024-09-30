@@ -17,6 +17,7 @@ Python Basics practice of 55+ coding exercises
     Day 12: Chapter 4 Data Collections - exercises (Print Odd Items, Reverse List, New List using slicing, Occurrence of Character)
     Day 13: Chapter 4 Data Collections - exercises (Replace substring, string concat, print date format, check two string equal, merge dictionaries)
     Day 14: Chapter 4 Data Collections - exercises (Create Dictionary, Loop Dictionaries, Values exists in dict, union of two set, convert string to list)
+    Day 15: Chapter 5 Modules - exercises (Square root, perfect square, standard deviation, power of number)
 
     
 
