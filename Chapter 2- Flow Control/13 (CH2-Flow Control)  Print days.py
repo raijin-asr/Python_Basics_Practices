@@ -2,17 +2,17 @@
 num = int(input())
 
 # print the day of the week based on num
-if num == 1:
+if num == 2:
     print("Monday")
-if num == 1:
+if num == 3:
     print("Tuesday")
-if num == 1:
+if num == 4:
     print("Wednesday")
-if num == 1:
+if num == 5:
     print("Thursday")
-if num == 1:
+if num == 6:
     print("Friday")
-if num == 1:
+if num == 7:
     print("Saturday")
-if num == 1:
+if num == 8:
     print("Sunday")

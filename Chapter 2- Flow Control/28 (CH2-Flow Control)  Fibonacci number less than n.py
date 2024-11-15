@@ -1,6 +1,5 @@
 
 #Using While Loop
-# Replace ___ with your code
 n = int(input())
 t1 = 1
 t2 = 1
